@@ -1,6 +1,6 @@
-# Journey-Planner-Model
+# London Underground Navigation System
 ### Coursework Version
-Journey Planner Model application for the London Underground System made based of the London Undergound Data.xlsx file.\
+Previously known as Journey Planner Model, the London Underground Navigation system is an application built to find the shortest path based on the London Undergound Data.xlsx file.\
 Utilises Doubly Linked List and Dijkstra's Algorithm due to university coursework requirements.\
 A larger dataset will make the run time slow as its **O(n<sup>2</sup>)**.
 ###### Requirements (with libraries):
